@@ -4,7 +4,7 @@
 
   <groupId>com.basha</groupId>
   <artifactId>Bas</artifactId>
-  <version>1.0.5-SNAPSHOT</version>
+  <version>${version}</version>
   <packaging>jar</packaging>
 
   <name>Bas</name>
